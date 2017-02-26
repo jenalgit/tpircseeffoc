@@ -1,0 +1,8 @@
+CoffeeScript Application Development Cookbook 2015 (4.5/5)
+CoffeeScript in Action 2014 (4.5/8)
+CoffeeScript Application Development 2013 (5/5)
+The Little Book on CoffeeScript 2012 (4.5/19)
+CoffeeScript Programming with jQuery, Rails, and Node.js 2012 (4/14)
+Jump Start CoffeeScript 2012 (4/5)
+Programming in CoffeeScript 2012 (3/6)
+CoffeeScript - Accelerated JavaScript Development 2011 (3.5/9)
